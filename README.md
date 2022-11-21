@@ -1,6 +1,6 @@
  Virtual-Mouse
  
-1. Move and use cursor using right hand. The program can run using left hand with a little tweak but we have yet to figure out how to get it to detect left or right hand by itself.
+ 1.Move and use cursor using right hand. The program can run using left hand with a little tweak but we have yet to figure out how to get it to detect left or right hand by itself.
 
 
 2.Use index to move cursor
